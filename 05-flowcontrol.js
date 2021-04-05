@@ -34,11 +34,23 @@
         *
 */
 //  =================================== for
-for(let i = 5; i >= 1; i--){
-    for(let k = 1; k <= i; k++){
-        console.log("*")
-    }
-    console.log("\n");
-}
+// for(let i = 5; i >= 1; i--){
+//     let star = "";
+//     for(let k = 1; k <= i; k++){
+//         star += "*";
+//     }
+//     console.log(star);
+// }
 
 //  =================================== while
+// let a = 5;
+// while(a > 0){
+//     let star = "";
+//     let k = 1;
+//     while(k <= a){
+//         star += "*";
+//         k++;
+//     }
+//     console.log(star);
+//     a--;
+// }
